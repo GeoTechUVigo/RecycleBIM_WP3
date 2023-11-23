@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-path = "C:\\Users\\rosam\\OneDrive - Universidade de Vigo\Escritorio\\Code_v1_oct_23\data"
+path = "asd"
 folder_cloud = "\\cs1"
 folder_results = "C:\\Users\\rosam\\OneDrive - Universidade de Vigo\Escritorio\\Code_v1_oct_23\\results"
 name_cloud = "\\cs1_storey_0.txt"
