@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-path = "C:\\Users\\rosam\OneDrive - Universidade de Vigo\Escritorio\\Code_v1_oct_23\data"
+path = input("Data folder path: ")
 folder_cloud = "\\cs4"
 name_cloud = "\\Initial_cs4_005.txt"
-folder_results = "C:\\Users\\rosam\\OneDrive - Universidade de Vigo\Escritorio\\Code_v1_oct_23\\Results"
+folder_results = input("Results folder path: ")
 pcd_file = path + folder_cloud + name_cloud
 name_f = "_storey_"
 #%%
