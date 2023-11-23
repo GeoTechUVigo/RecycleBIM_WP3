@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
-path = "C:\\Users\\rosam\OneDrive - Universidade de Vigo\Escritorio\\Code_v1_oct_23\\data"
+path = input("Data folder path: ")
 folder_cloud = "\\cs2"
 name_cloud = "\\Initial_cs2.txt"
 name_trajectory = "\\Trajectory_Initial_cs2.txt"
-folder_results = "C:\\Users\\rosam\\OneDrive - Universidade de Vigo\Escritorio\\Code_v1_oct_23\\results"
+folder_results = input("Results folder path: ")
 name_f = "_pointcloud_1_01.txt"
 #%%
 # Packages (Python)
