@@ -2,7 +2,7 @@
 
 path = input("Data folder path: ")
 folder_cloud = "\\cs1"
-folder_results = input("Data folder results: ")
+folder_results = input("Results folder path: ")
 name_cloud = "\\cs1_storey_0.txt"
 name_f = "_pointcloud_0_01.txt"
 
