@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-path = "asd"
+path = input("Data folder path: ")
 folder_cloud = "\\cs1"
-folder_results = "C:\\Users\\rosam\\OneDrive - Universidade de Vigo\Escritorio\\Code_v1_oct_23\\results"
+folder_results = input("Data folder results: ")
 name_cloud = "\\cs1_storey_0.txt"
 name_f = "_pointcloud_0_01.txt"
 
