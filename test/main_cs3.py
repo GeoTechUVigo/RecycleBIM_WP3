@@ -47,16 +47,16 @@ from src.elements_seg import walls
 from src.utils import mix_room
 
 #%%
-# Parameters
+# Parameters Sorey_0 (if Storey_1: voxel_size=0.09, width_door=0.8, ransac_th=0.5)
 n_bins = 33 
 dist_b = 3
 
 voxel_size = 0.1
-eps = 0.3
+eps = 0.6
 pt = 2
 nt = 0.9
 alpha = 3.2
-ransac_th = 0.5
+ransac_th = 0.12
 zmax = 1000
 zmin = -1000
 dist =  0.1
