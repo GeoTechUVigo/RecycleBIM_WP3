@@ -1,9 +1,12 @@
 # RecycleBIM
 
 ## Description
-This repository contains the code generated in the framework of the [RecycleBIM project](https://recyclebim.eu/).
+This repository hosts the code produced as part of the project [RecycleBIM project](https://recyclebim.eu/).
 
-Data and results can be downloaded from the following repository: https://dpv.uvigo.es/index.php/s/d64FQQE4sk3Z3yT
+The associated data and results can be accessed from the following repository: https://dpv.uvigo.es/index.php/s/d64FQQE4sk3Z3yT
+
+At present, only a portion of the code is publicly accessible. The rest of the code will be released to the public pending its publication on several journal and conference papers. For any additional information, please contact lucia@uvigo.gal. 
+
 
 These results are part of the project PCI2022-132943, funded by MCIN/AEI/10.13039/501100011033 and by the European Union “NextGenerationEU”/PRTR”.
 
@@ -23,6 +26,7 @@ The data in this repository is distributed under the [CC BY-NC-ND 4.0 license](h
 
 ## Disclaimer
 The information and content available on this repository are provided with no warranty whatsoever. Any use for scientific or any other purpose is conducted at your own risk and under your own responsibility. The authors are not liable for any damages - including any consequential damages - of any kind that may result from the use of the materials or information available on this repository or of any of the products or services hereon described.
+
 
 
 
